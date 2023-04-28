@@ -1,0 +1,17 @@
+{
+  "Egypt":{
+    "PlansTitle": ["LITE", "CLASSIC", "PREMIUM"],
+    "PlansPrice": ["0.25", "0.5", "1"],
+    "Currency": "USD"
+  },
+  "Jordan":{
+    "PlansTitle": ["LITE", "CLASSIC", "PREMIUM"],
+    "PlansPrice": ["2.7", "5.2", "8"],
+    "Currency": "USD"
+  },
+  "UAE":{
+    "PlansTitle": ["LITE", "CLASSIC", "PREMIUM"],
+    "PlansPrice": ["5.4", "10.9", "16.3"],
+    "Currency": "USD"
+  }
+}
