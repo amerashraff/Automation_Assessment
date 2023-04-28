@@ -1,4 +1,4 @@
-# AmerAshraf_Automation_Assessment [Selenium]
+# AmerAshraf_Automation_Assessment [Cypress]
 
 ## Steps to run the project
 
